@@ -2,16 +2,10 @@
 <h1 align="center">:wave: Hi everyone, I'm Sebastian. </h1>
 <h3 align = "center"> I'm currently working on broadening my knowledge in Computer Science</h3>
 <div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
+    
 ![Metrics](https://metrics.lecoq.io/Cybiii?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FLos_Angeles)
 
 </div>
-
-
-<p>  </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
