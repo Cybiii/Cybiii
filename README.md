@@ -1,11 +1,11 @@
-# 📎[Sebastian Silva](https://www.linkedin.com/in/sebastiansilvap/) [@Cybi](https://leetcode.com/Cybi/)
-<h1 align="center">:wave: Hi everyone, I'm Sebastian. </h1>
+![Computer science and engineering major](https://github.com/Cybiii/Cybiii/assets/110711768/5c4962a4-90f4-42e9-bb21-ae0804f82764)
 <h3 align = "center"> I'm currently working on broadening my knowledge in Computer Science</h3>
-<div align="center">
-    
-![Metrics](https://metrics.lecoq.io/Cybiii?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FLos_Angeles)
 
-</div>
+
+<div align="center">
+
+
+![Metrics](https://metrics.lecoq.io/Cybiii?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FLos_Angeles)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
