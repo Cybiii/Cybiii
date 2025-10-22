@@ -1,6 +1,4 @@
 ![Computer science and engineering major](https://github.com/Cybiii/Cybiii/assets/110711768/5c4962a4-90f4-42e9-bb21-ae0804f82764)
-<h3 align = "center"> I'm currently working on Learning Chisel & Chipyard:D</h3>
-
 
 <div align="center">
 
